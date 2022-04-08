@@ -1,21 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Bonjour, moi c'est Camille 
+### Hello, moi c'est Camille 
 
 **👋 Présentation**
 
@@ -29,7 +12,7 @@ Je me forme actuellement plus profondément sur le JS.
 
 - 🔭 Je suis une développeuse web junior
 - 📫 Vous souhaitez me contacter ? Mon email : [*contact@camille-lgrr.com*](mailto:contact@camille-lgrr.com)
-- 💼 Découvrez mon [portfolio](www.camille-lgrr.com)
+- 💼 Découvrez mon [portfolio](http://www.camille-lgrr.com/)
 - 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/camille-lgrr)
 - 🔗 
 - 📢 
