@@ -14,14 +14,9 @@ Je me forme actuellement plus profondément sur le JS.
 - 📫 Vous souhaitez me contacter ? Mon email : [*contact@camille-lgrr.com*](mailto:contact@camille-lgrr.com)
 - 💼 Découvrez mon [portfolio](http://www.camille-lgrr.com/)
 - 📄 Visiter mon profil [Linkedin](https://www.linkedin.com/in/camille-lgrr)
-- 🔗 
+<!-- - 🔗 
 - 📢 
-- ⚡ 
-
-**🤠 Retrouvez-moi sur 👇**
-
-<a href="https://www.linkedin.com/in/pierrelemasson" target="blank"><img src="https://img.shields.io/badge/-Pierre LEMASSON-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrelemasson/" alt="Pierre LEMASSON - Linkedin" /></a> <a href="https://twitter.com/sirchamallow" target="blank"><img src="https://img.shields.io/twitter/follow/sirchamallow?style=social" alt="sirchamallow - Twitter" /></a> <a href="https://github.com/sirchamallow" target="blank"><img src="https://img.shields.io/github/followers/sirchamallow?label=Github&style=social" alt="sirchamallow - GitHub" /></a>
-</br>
+- ⚡  -->
 
 **⚡ Technologies & skills**
 
