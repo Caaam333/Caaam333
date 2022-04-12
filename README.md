@@ -2,7 +2,7 @@
 
 **👋 Présentation**
 
-Je suis une développeuse web passionné par le monde du code.
+Je suis une développeuse web fascinée par le monde du code.
 
 Après avoir travailler à la SNCF, où j'ai pu développer ma rigueur, ma patience et mon autonomie, je me suis inscrite au bootcamp du Wagon et j'ai pu accroitre ma passion pour le code.
 Je me forme actuellement plus profondément sur le JS.
